@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow — Personal Expense & Cash Manager",
+  "description": "Personal Expense Management System with IndexedDB local persistence, PKR budget tracking, manual cash reconciliation, ideal expense planning, financial reports, and scheduled daily email reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
